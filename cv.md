@@ -11,15 +11,15 @@ I have been working in the Insurance Company as a system administrator for 8 yea
 
 ## Skills
 
-*HTML 
-*CSS 
-*JS core
-*GIT
+>HTML 
+>CSS 
+>JS core
+>GIT
 
 ## Education
 
 - I graduated from BSUIR, Department of Radio Electronics and graduated from a magistracy at the same faculty;
-- Courses fron IT-academy:
+- Courses fron [IT-academy](https://www.it-academy.by/):
   - Designing Web Pages for Programmers (36 hours)
   - Website development using HTML, CSS, and JavaScript (100 hours)
   - Web application development on JavaScript (116 hours)
